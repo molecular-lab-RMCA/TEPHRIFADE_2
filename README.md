@@ -6,6 +6,8 @@ Detection methods for quarantine fruit flies, developed through the Euphresco ne
 
 Public repositories will be listed here as they become available.
 
+[Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/TEPHRIFADE_2.md)
+
 ## Funding
 
 Funded by the Belgian Federal Public Service Health, Food Chain Safety and Environment, contract **RI 25/A-490**. The Euphresco topic reference is **2025-A-490**.
