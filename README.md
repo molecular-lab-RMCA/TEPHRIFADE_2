@@ -12,6 +12,6 @@ Public repositories will be listed here as they become available.
 
 Funded by the Belgian Federal Public Service Health, Food Chain Safety and Environment, contract **RI 25/A-490**. The Euphresco topic reference is **2025-A-490**.
 
-[RMCA project directory](https://www.africamuseum.be/en/staff/896/project_view)
+[Project information](https://www.africamuseum.be/en/staff/896/project_detail_view?prjid=801)
 
 [Laboratory homepage](https://github.com/molecular-lab-RMCA)
