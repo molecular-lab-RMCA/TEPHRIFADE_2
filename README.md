@@ -2,6 +2,15 @@
 
 Detection methods for quarantine fruit flies, developed through the Euphresco network.
 
+## Partners and collaborators
+
+| Institution | Country |
+| --- | --- |
+| Royal Museum for Central Africa (RMCA) | Belgium |
+| Flanders Research Institute for Agriculture, Fisheries and Food (ILVO) | Belgium |
+
+Project coordinator: Negin Ebrahimi (ILVO). RMCA contributes taxonomic expertise, genomic resources and support for developing and validating diagnostic tools.
+
 ## Public repositories
 
 Public repositories will be listed here as they become available.
